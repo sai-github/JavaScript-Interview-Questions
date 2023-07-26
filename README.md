@@ -1,5 +1,8 @@
 # JavaScript Questions & Problems for an Interview
 
+> ## :mega: Attribution
+> This repository has been forked from [Narahari-Sundaragopalan/JavaScript-Interview-Questions](https://github.com/Narahari-Sundaragopalan/JavaScript-Interview-Questions).
+
 > Contains common JavaScript questions, problems, generally asked in technical and software coding interviews. This is based on my preparation and research for a software developer interview
 
 1. [Arrays](https://github.com/Narahari-Sundaragopalan/JavaScript-Interview-Prep/tree/master/exercises/arrays)
